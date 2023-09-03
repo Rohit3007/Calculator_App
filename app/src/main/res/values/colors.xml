@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Light Theme Colors -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightBackground">#FFFFFF</color>
+    <color name="darkText">#000000</color>
+    <color name="lightTextSecondary">#757575</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="darkBackground">#000000</color>
+    <color name="lightText">#FFFFFF</color>
+    <color name="darkTextSecondary">#BDBDBD</color>
+
+</resources>
